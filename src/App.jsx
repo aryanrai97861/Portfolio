@@ -388,7 +388,7 @@ const App = () => {
                 item === 'Resume' ? (
                   <motion.a
                     key={item}
-                    href="https://drive.google.com/file/d/166g7sPEB3rNr3cSxQEmiE76htgHI8a56/view?usp=sharing" //Google Drive resume link
+                    href="https://drive.google.com/file/d/1Ngv9NJoJjjAC9hiS4f2KbkIPQt45aqav/view?usp=sharing" //Google Drive resume link
                     target="_blank"
                     rel="noopener noreferrer"
                     initial={{ opacity: 0, y: -20 }}
@@ -447,7 +447,7 @@ const App = () => {
                   item === 'Resume' ? (
                     <a
                       key={item}
-                      href="https://drive.google.com/file/d/166g7sPEB3rNr3cSxQEmiE76htgHI8a56/view?usp=sharing" // Google Drive resume link
+                      href="https://drive.google.com/file/d/1Ngv9NJoJjjAC9hiS4f2KbkIPQt45aqav/view?usp=sharing" // Google Drive resume link
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block w-full text-left px-3 py-2 text-sm font-medium text-gray-300 hover:text-blue-400 hover:bg-gray-700 rounded-md"
